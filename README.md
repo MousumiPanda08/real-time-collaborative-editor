@@ -20,9 +20,9 @@ This project was built as part of a full-stack task, combining React.js, Socket.
 
 #live project link
 
+https://editor-fron.vercel.app/
 
-
-🔧 **Technologies Used**
+ **Technologies Used**
 Frontend:
 
 React.js: Used to build a dynamic, component-based user interface.
@@ -99,5 +99,7 @@ The ability to have multiple people type at once, track activity, and work live 
 
 Conclusion
 Building this real-time collaborative editor was an excellent way to apply full-stack development skills in a real-world scenario. It showcases how modern technologies like React, WebSockets, and MongoDB can be combined to build interactive and dynamic web applications. With the ability to store document content and allow multi-user interaction in real-time, this project stands as a fully functional collaborative tool. It’s fast, responsive, and scalable — and can be extended with features like user authentication, version history, or document sharing with permissions.
+
+#OUTPUT
 
 
