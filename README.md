@@ -102,4 +102,7 @@ Building this real-time collaborative editor was an excellent way to apply full-
 
 #OUTPUT
 
+<img width="1913" height="879" alt="Image" src="https://github.com/user-attachments/assets/350b4b90-6494-49e6-bf5f-79a0b2c0dada" />
+
+<img width="1820" height="970" alt="Image" src="https://github.com/user-attachments/assets/35a00483-b0ce-40d8-ba77-803bd62ac517" />
 
